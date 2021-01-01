@@ -1,0 +1,12 @@
+{
+  "name": "NRF24Dongle",
+  "description": "NRF24 Dongle",
+  "version": "1.0",
+
+  "power": "USB",
+  "wireless":"nrf2401",
+  "sensor": "lprf",
+  "mcu": "stm32",
+
+  "status": "ongoing"
+}
